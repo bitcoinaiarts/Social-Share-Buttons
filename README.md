@@ -4,4 +4,4 @@ Click here to see how our <a href="https://geektechify.com/tools/social-share-li
 <br><br>Click here to access <a href="https://geektechify.com/tools/social-share-links-generator/" target="_blank">Social share links Generator</a> to generate shareable social sharing link of your content.
 
 <br><br>
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qbJiuGMPTgKkD2V_95a-oQ.png">
+<a href="https://geektechify.com/tools/social-share-links-generator/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qbJiuGMPTgKkD2V_95a-oQ.png"></a>
